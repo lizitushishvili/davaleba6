@@ -1,0 +1,172 @@
+body{
+    background-color: #F5F5F5;;
+}
+.container{
+    margin: 0 auto;
+    width: 1200px;
+}
+.header{
+    position: fixed;
+    width: 369px;
+    left: 155px;
+    top: 21px;
+    background-color: #F5F5F5;
+    z-index: 100;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+    display: inline-block;
+    margin-right: 35px;
+    vertical-align: middle;
+}
+.accpic{
+    vertical-align: middle;
+}
+h2{
+    margin-top: 76px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.newssection{
+    position: relative;
+    background-color: white;
+    width: 362px;
+    height: 171px;
+    border-radius: 0px 0px 5px 5px;
+}
+.newsphoto{
+    margin-top: 27px;
+    position: relative;
+}
+h3{
+    position: absolute;
+    top: 32px;
+    left: 41px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+h4{
+    position: absolute;
+    top: 68px;
+    left: 37px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: #8A8787;
+}
+.littlelogo{
+    position: absolute;
+    top: 115px;
+    left: 40px;
+}
+.time{
+    position: absolute;
+    top: 118px;
+    left: 68px;
+}
+.newsframe{
+    display: inline-block;
+    margin-right: 40px;
+    vertical-align: top;
+}
+.newsframe2{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 40px;
+}
+.newsframe3{
+    display: inline-block;
+}
+section{
+    margin-top: 57px;
+}
+.bridgephoto{
+    position: relative;
+    top: 30px;
+    margin-right: 45px;
+}
+h5{
+    position: absolute;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    top: 203px;
+    left: 258px;
+}
+.photoofmountain{
+    margin-top: 42px;
+    margin-right: 45px;
+}
+.green{
+    position: absolute;
+    top: 623px;
+}
+.elephant{
+    position: absolute;
+    top: 933px;
+}
+.pht{
+    position: absolute;
+    top: 1228px;
+}
+footer div{
+    position: relative;
+    left: 0;
+    margin-top: 36px;
+    width: 100%;
+    height: 201px;
+    background: #243043;
+}
+div ul{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+    color: #818687;
+    position: relative;
+    top: 59px;
+    left: 137px;
+    display: inline-block;
+    margin-right: 96px ; 
+}
+li{
+    margin-top: 14px;
+}
+h6{
+    position: relative;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+    color: #FFFFFF;
+    top: -25px;
+    margin-left: 160px;
+    display: inline-block;
+}
+.geolab{
+    position: absolute;
+    top: 70px;
+    right: 138px;
+}
